@@ -1,5 +1,6 @@
-### Hi 👋, i'm Fatima
+### Hi 👋, i'm Fatima :octocat:
 - I'm a computer vision student
+- I love learning new skills
 
 <!--
 **FatimaAbc/FatimaAbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
