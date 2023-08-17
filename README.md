@@ -1,5 +1,5 @@
 ### Hi 👋, i'm Fatima :octocat:
-- I'm a computer vision student
+- I'm a computer vision engineer
 - I love learning new skills
 
 <!--
