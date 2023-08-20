@@ -1,4 +1,4 @@
-### Hi 👋, i'm Fatima :octocat:
+### Hi 👋, i'm Fatima Abci :octocat:
 - I'm a computer vision engineer
 - I love learning new skills
 
