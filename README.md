@@ -1,3 +1,4 @@
+<img src="https://media1.giphy.com/headers/carlottanotaro/ftRtwRu9355h.gif" alt="banner">
 <h1 align="center">Hi 👋, I'm Fatima Abci</h1>
 <h3 align="center">I'm a computer vision engineer</h3>
 
