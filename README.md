@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Abci</h1>
 <h3 align="center">I'm a computer vision engineer</h3>
+<img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBrdHA0aG00Zjg2NzVlZ3o1Zm8zdzZrNXBpdTRmemRjZGVjMGhrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatima-abci&label=Profile%20views&color=0e75b6&style=flat" alt="fatima-abci" /> </p>
 
